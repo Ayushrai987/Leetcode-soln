@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
