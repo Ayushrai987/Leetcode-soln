@@ -1,26 +1,24 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        int n = s.length();
         List<Integer> result = new ArrayList<>();
-        
-        // Last occurrence of each character
         int[] lastIndex = new int[26];
-        for (int i = 0; i < n; i++) {
+
+        // Step 1: Store last occurrence of each character
+        for (int i = 0; i < s.length(); i++) {
             lastIndex[s.charAt(i) - 'a'] = i;
         }
-        
-        int i = 0;
-        while (i < n) {
-            int end = lastIndex[s.charAt(i) - 'a'];
-            int j = i;
-            while (j < end) {
-                end = Math.max(end, lastIndex[s.charAt(j) - 'a']);
-                j++;
+
+        // Step 2: Traverse string and cut partitions
+        int start = 0;
+        int end = 0;
+        for (int i = 0; i < s.length(); i++) {
+            end = Math.max(end, lastIndex[s.charAt(i) - 'a']);
+            if (i == end) {
+                result.add(end - start + 1);
+                start = i + 1;
             }
-            result.add(j - i + 1);
-            i = j + 1;
         }
-        
+
         return result;
     }
 }
