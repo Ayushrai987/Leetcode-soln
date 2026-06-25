@@ -1,20 +1,4 @@
 class Solution {
-
-    private boolean checkBalanced(int[] freq) {
-        int common = 0;
-
-        for (int f : freq) {
-            if (f == 0) continue;
-
-            if (common == 0) {
-                common = f;
-            } else if (f != common) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     public int longestBalanced(String s) {
         int n = s.length();
         int maxL = 0;
@@ -25,7 +9,22 @@ class Solution {
             for (int j = i; j < n; j++) {
                 freq[s.charAt(j) - 'a']++;
 
-                if (checkBalanced(freq)) {
+                // Inline balanced check (instead of helper)
+                int common = 0;
+                boolean balanced = true;
+
+                for (int f : freq) {
+                    if (f == 0) continue;
+
+                    if (common == 0) {
+                        common = f;   // baseline frequency
+                    } else if (f != common) {
+                        balanced = false;
+                        break;
+                    }
+                }
+
+                if (balanced) {
                     maxL = Math.max(maxL, j - i + 1);
                 }
             }
