@@ -12,7 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
-| [0219-contains-duplicate-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -26,7 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
-| [0219-contains-duplicate-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Combinatorics
 |  |
@@ -122,8 +125,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
-## Sliding Window
-|  |
-| ------- |
-| [0219-contains-duplicate-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
