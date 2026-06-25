@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Combinatorics
