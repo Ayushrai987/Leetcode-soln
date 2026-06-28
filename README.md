@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
