@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
