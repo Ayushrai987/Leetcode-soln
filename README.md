@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
 | [2090-k-radius-subarray-averages](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
 ## Combinatorics
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2799-count-complete-subarrays-in-an-array) |
