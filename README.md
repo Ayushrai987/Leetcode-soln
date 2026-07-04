@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
