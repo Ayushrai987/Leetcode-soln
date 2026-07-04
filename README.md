@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
+| [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
+| [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1208-get-equal-substrings-within-budget) |
@@ -197,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
+| [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1208-get-equal-substrings-within-budget) |
@@ -286,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
