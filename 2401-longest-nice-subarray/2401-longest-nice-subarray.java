@@ -1,11 +1,12 @@
 class Solution {
     public int longestNiceSubarray(int[] nums) {
+        int n = nums.length;
         int left = 0;
         int current_party = 0;
         int maxLength = 0;
         
         // right pointer se array ke har number par jayenge
-        for (int right = 0; right < nums.length; right++) {
+        for (int right = 0; right < n; right++) {
             
             // 1. CLASH CHECK: Agar naye number ka bit aur purane kisi number ka bit match ho gaya
             while ((current_party & nums[right]) != 0) {
