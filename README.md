@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1208-get-equal-substrings-within-budget) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1208-get-equal-substrings-within-budget) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0992-subarrays-with-k-different-integers) |
@@ -284,14 +288,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Backtracking
 |  |
 | ------- |
