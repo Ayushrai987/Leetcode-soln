@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
 ## Matrix
 |  |
