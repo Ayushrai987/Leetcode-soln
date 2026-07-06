@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0367-valid-perfect-square](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1248-count-number-of-nice-subarrays) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
