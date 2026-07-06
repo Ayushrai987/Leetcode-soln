@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
