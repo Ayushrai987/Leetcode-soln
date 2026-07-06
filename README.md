@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
