@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [2401-longest-nice-subarray](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2401-longest-nice-subarray) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
