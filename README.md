@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
 | [0367-valid-perfect-square](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0367-valid-perfect-square) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
 ## Geometry
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
 | [2401-longest-nice-subarray](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2401-longest-nice-subarray) |
 ## Sliding Window
 |  |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
