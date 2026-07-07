@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -343,4 +344,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
