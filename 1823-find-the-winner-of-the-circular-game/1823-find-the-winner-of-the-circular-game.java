@@ -1,17 +1,18 @@
 class Solution {
-    private int findWinnerIdx(int n, int k) {
-        if (n == 1) {
-            return 0; // index
+    public int findTheWinner(int n, int k) {
+        ArrayList<Integer> arr = new ArrayList<>();
+        for (int i = 1; i <= n; i++) {
+            arr.add(i);
         }
 
-        int idx = findWinnerIdx(n - 1, k);
-        idx = (idx + k) % n; // to find the original index in the original array
+        int i = 0; // Game starts from 1st player which is sitting at index 0 in arr
 
-        return idx;
-    }
+        while (arr.size() > 1) {
+            int idx = (i + k - 1) % arr.size();
+            arr.remove(idx);
+            i = idx;
+        }
 
-    public int findTheWinner(int n, int k) {
-        int resultIdx = findWinnerIdx(n, k);
-        return resultIdx + 1;
+        return arr.get(0);
     }
 }
