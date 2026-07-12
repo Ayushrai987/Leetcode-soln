@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0149-max-points-on-a-line) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0273-integer-to-english-words) |
@@ -349,12 +351,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 ## Interactive
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Tree
