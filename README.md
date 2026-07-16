@@ -163,7 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0234-palindrome-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
@@ -253,7 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
-| [0234-palindrome-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -404,7 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0050-powx-n) |
-| [0234-palindrome-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0390-elimination-game) |
@@ -443,6 +440,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0141-linked-list-cycle) |
-| [0234-palindrome-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
