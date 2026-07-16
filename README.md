@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0283-move-zeroes) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0148-sort-list) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -440,6 +443,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0328-odd-even-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
