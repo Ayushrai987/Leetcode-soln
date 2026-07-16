@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+| [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
+| [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0992-subarrays-with-k-different-integers) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0414-third-maximum-number) |
+| [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0509-fibonacci-number) |
+| [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
