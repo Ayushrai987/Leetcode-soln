@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0390-elimination-game) |
@@ -437,5 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
-| [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
