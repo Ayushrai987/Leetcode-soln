@@ -434,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
