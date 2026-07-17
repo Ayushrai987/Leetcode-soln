@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1695-maximum-erasure-value) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1695-maximum-erasure-value) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1922-count-good-numbers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
