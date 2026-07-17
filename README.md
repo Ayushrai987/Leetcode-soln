@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1922-count-good-numbers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Geometry
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
