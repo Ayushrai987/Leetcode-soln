@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
 | [2352-equal-row-and-column-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2352-equal-row-and-column-pairs) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
