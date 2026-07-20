@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
+| [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
 | [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0846-hand-of-straights) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
 | [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
+| [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
