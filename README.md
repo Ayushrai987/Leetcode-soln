@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
 | [2090-k-radius-subarray-averages](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2090-k-radius-subarray-averages) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1695-maximum-erasure-value) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2364-count-number-of-bad-pairs) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2364-count-number-of-bad-pairs) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
