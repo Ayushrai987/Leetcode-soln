@@ -1,30 +1,23 @@
 class Solution {
-    public int longestPalindrome(String[] words) {
-        Map<String, Integer> map = new HashMap<>();
-        int result = 0;
+  public int longestPalindrome(String[] words) {
+    int ans = 0;
+    int[][] count = new int[26][26];
 
-        for (String word : words) {
-            String reversed = new StringBuilder(word).reverse().toString();
-
-            if (map.getOrDefault(reversed, 0) > 0) {
-                result += 4;
-                map.put(reversed, map.get(reversed) - 1);
-            } else {
-                map.put(word, map.getOrDefault(word, 0) + 1);
-            }
-        }
-
-        // Check for a word with both characters same to use in the center
-        for (Map.Entry<String, Integer> entry : map.entrySet()) {
-            String word = entry.getKey();
-            int count = entry.getValue();
-
-            if (word.charAt(0) == word.charAt(1) && count > 0) {
-                result += 2;
-                break;
-            }
-        }
-
-        return result;
+    for (final String word : words) {
+      final int i = word.charAt(0) - 'a';
+      final int j = word.charAt(1) - 'a';
+      if (count[j][i] > 0) {
+        ans += 4;
+        --count[j][i];
+      } else {
+        ++count[i][j];
+      }
     }
+
+    for (int i = 0; i < 26; ++i)
+      if (count[i][i] > 0)
+        return ans + 2;
+
+    return ans;
+  }
 }
