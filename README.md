@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2401-longest-nice-subarray](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2401-longest-nice-subarray) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0509-fibonacci-number) |
 | [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Queue
