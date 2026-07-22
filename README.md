@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
+| [0966-vowel-spellchecker](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0966-vowel-spellchecker) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1052-grumpy-bookstore-owner) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
+| [0966-vowel-spellchecker](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0966-vowel-spellchecker) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1248-count-number-of-nice-subarrays) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
+| [0966-vowel-spellchecker](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0966-vowel-spellchecker) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
