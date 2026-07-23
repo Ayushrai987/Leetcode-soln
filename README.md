@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1695-maximum-erasure-value) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2352-equal-row-and-column-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1922-count-good-numbers) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2364-count-number-of-bad-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2364-count-number-of-bad-pairs) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0216-combination-sum-iii) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
 | ------- |
