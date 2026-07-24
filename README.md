@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
+| [3531-count-covered-buildings](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
+| [3531-count-covered-buildings](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3531-count-covered-buildings](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
