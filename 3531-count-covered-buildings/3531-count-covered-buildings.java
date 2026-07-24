@@ -1,39 +1,31 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] buildings) {
-        Map<Integer, int[]> yToMinMaxX = new HashMap<>();
-        Map<Integer, int[]> xToMinMaxY = new HashMap<>();
+        //same y -> x-i,y    x,y       x+i,y
+        //same x -> x,y-j    x,y       x,y+j
+        int[] minRow = new int[n+1];
+        int[] maxRow = new int[n+1];
+        int[] minCol = new int[n+1];
+        int[] maxCol = new int[n+1];
 
-        for (int[] building : buildings) {
-            int x = building[0];
-            int y = building[1];
+        Arrays.fill(minRow,n+1);
+        Arrays.fill(minCol,n+1);
 
-            yToMinMaxX.putIfAbsent(y, new int[]{Integer.MAX_VALUE, Integer.MIN_VALUE});
-            xToMinMaxY.putIfAbsent(x, new int[]{Integer.MAX_VALUE, Integer.MIN_VALUE});
-
-            int[] xr = yToMinMaxX.get(y);
-            xr[0] = Math.min(xr[0], x);
-            xr[1] = Math.max(xr[1], x);
-
-            int[] yr = xToMinMaxY.get(x);
-            yr[0] = Math.min(yr[0], y);
-            yr[1] = Math.max(yr[1], y);
+        for(int[]p: buildings){
+            int x = p[0];
+            int y = p[1];
+            minRow[y]=Math.min(minRow[y],x);
+            maxRow[y]=Math.max(maxRow[y],x);
+            minCol[x]=Math.min(minCol[x],y);
+            maxCol[x]=Math.max(maxCol[x],y);
         }
 
-        int result = 0;
-
-        for (int[] building : buildings) {
-            int x = building[0];
-            int y = building[1];
-
-            int[] xr = yToMinMaxX.get(y);
-            int[] yr = xToMinMaxY.get(x);
-
-            if (xr[0] < x && x < xr[1] &&
-                yr[0] < y && y < yr[1]) {
-                result++;
-            }
+        int res=0;
+        for(int[] p: buildings){
+            int x=p[0];
+            int y=p[1];
+            if(x > minRow[y] && x < maxRow[y] && y > minCol[x] && y < maxCol[x])
+            res++;
         }
-
-        return result;
+        return res;
     }
 }
