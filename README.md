@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
