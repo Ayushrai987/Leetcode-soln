@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
