@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
