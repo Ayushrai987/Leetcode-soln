@@ -2,21 +2,23 @@ class Solution {
     public int minimumDistance(int[] nums) {
         int n = nums.length;
 
-        Map<Integer, List<Integer>> mp = new HashMap<>();
+        Map<Integer, Deque<Integer>> map = new HashMap<>();
         int result = n;
 
         for (int k = 0; k < n; k++) {
-            mp.putIfAbsent(nums[k], new ArrayList<>());
-            mp.get(nums[k]).add(k);
+            map.putIfAbsent(nums[k], new ArrayDeque<>());
+            Deque<Integer> dp =map.get(nums[k]);
 
-            if (mp.get(nums[k]).size() >= 3) {
-                List<Integer> list = mp.get(nums[k]);
-                int siz = list.size();
-                int i = list.get(siz - 3);
-                result = Math.min(result, k - i);
+            dp.addLast(k);
+            if (dp.size()>3)dp.pollFirst();
+
+            if (dp.size() ==  3) {
+                int first = dp.peekFirst();
+                int last = dp.peekLast();
+                result = Math.min(result, last - first);
             }
         }
 
-        return result >= n ? -1 : 2 * result;
+        return result == n ? -1 : 2*result;
     }
 }
