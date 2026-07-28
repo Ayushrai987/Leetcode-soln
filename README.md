@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/3714-longest-balanced-substring-ii) |
