@@ -1,22 +1,30 @@
 class Solution {
     public int pairSum(ListNode head) {
-        List<Integer> arr = new ArrayList<>();
-        ListNode temp = head;
-        
-        // Step 1: store values
-        while (temp != null) {
-            arr.add(temp.val);
-            temp = temp.next;
+        // Step 1: find middle
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        
-        // Step 2: calculate twin sums
-        int n = arr.size();
+
+        // Step 2: reverse second half
+        ListNode prev = null, curr = slow;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        // Step 3: traverse both halves
         int maxSum = 0;
-        for (int i = 0; i < n / 2; i++) {
-            int sum = arr.get(i) + arr.get(n - 1 - i);
-            maxSum = Math.max(maxSum, sum);
+        ListNode left = head, right = prev;
+        while (right != null) {
+            maxSum = Math.max(maxSum, left.val + right.val);
+            left = left.next;
+            right = right.next;
         }
-        
+
         return maxSum;
     }
 }
