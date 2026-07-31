@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
