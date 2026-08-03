@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0160-intersection-of-two-linked-lists) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
