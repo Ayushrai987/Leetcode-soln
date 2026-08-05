@@ -10,28 +10,24 @@
  */
 class Solution {
     public int numComponents(ListNode head, int[] nums) {
+        // Step 1: put nums in a HashSet
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+
         int count = 0;
         ListNode curr = head;
 
+        // Step 2: traverse linked list
         while (curr != null) {
-            // check if current node is in nums
-            if (isInNums(curr.val, nums)) {
-                // agar next node null hai ya nums me nahi hai → component complete
-                if (curr.next == null || !isInNums(curr.next.val, nums)) {
-                    count++;
-                }
+            if (set.contains(curr.val) &&
+                (curr.next == null || !set.contains(curr.next.val))) {
+                count++;
             }
             curr = curr.next;
         }
 
         return count;
-    }
-
-    // helper function: check if value exists in nums
-    private boolean isInNums(int val, int[] nums) {
-        for (int num : nums) {
-            if (num == val) return true;
-        }
-        return false;
     }
 }
