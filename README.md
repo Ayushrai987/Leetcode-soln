@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0731-my-calendar-ii) |
 | [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
+| [0817-linked-list-components](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0846-hand-of-straights) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
+| [0817-linked-list-components](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0817-linked-list-components) |
 | [0823-binary-trees-with-factors](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0823-binary-trees-with-factors) |
 | [0846-hand-of-straights](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0904-fruit-into-baskets) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1721-swapping-nodes-in-a-linked-list) |
