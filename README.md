@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0390-elimination-game) |
+| [0445-add-two-numbers-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0779-k-th-symbol-in-grammar) |
 | [0781-rabbits-in-forest](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0781-rabbits-in-forest) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
 | [0962-maximum-width-ramp](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0962-maximum-width-ramp) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0876-middle-of-the-linked-list) |
