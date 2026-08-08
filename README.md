@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-vowel-spellchecker](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0966-vowel-spellchecker) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0992-subarrays-with-k-different-integers) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1019-next-greater-node-in-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
