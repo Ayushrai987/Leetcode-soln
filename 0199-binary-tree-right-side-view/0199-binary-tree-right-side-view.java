@@ -1,39 +1,33 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// Approach - 2 (Level Order Traversal)
+import java.util.*;
+
 class Solution {
-        private void preOrder(TreeNode root, int level, List<Integer> result){
-            if(root == null)
-            return;
+    public List<Integer> rightSideView(TreeNode root) {
+        if (root == null)
+            return new ArrayList<>();
 
-            if(result.size() < level)
-            result.add(root.val);
+        Queue<TreeNode> queue = new LinkedList<>();
+        List<Integer> result = new ArrayList<>();
 
-            preOrder(root.right, level +1, result);
-            preOrder(root.left, level +1, result);
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            int n = queue.size();
+            TreeNode rightNode = null;
+
+            for (int i = 0; i < n; i++) {
+                rightNode = queue.poll();
+
+                if (rightNode.left != null)
+                    queue.offer(rightNode.left);
+                if (rightNode.right != null)
+                    queue.offer(rightNode.right);
+            }
+
+            // The last node processed at each level is the rightmost one
+            result.add(rightNode.val);
         }
 
-
-    public List<Integer> rightSideView(TreeNode root) {
-        if(root == null)
-            return new ArrayList<>();
-            List<Integer> result = new ArrayList<>();
-            preOrder(root, 1, result);
-            
-        
         return result;
-        
     }
 }
