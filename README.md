@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0386-lexicographical-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 ## Memoization
 |  |
@@ -624,4 +627,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
