@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Ayushrai987/Leetcode-soln/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0617-merge-two-binary-trees) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0617-merge-two-binary-trees) |
