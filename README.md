@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0617-merge-two-binary-trees) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Ayushrai987/Leetcode-soln/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0617-merge-two-binary-trees) |
 ## Memoization
 |  |
 | ------- |
@@ -628,4 +631,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Ayushrai987/Leetcode-soln/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
